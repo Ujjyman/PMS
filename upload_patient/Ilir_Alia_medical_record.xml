@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<medical_record>
+  <id>59</id>
+  <health_insurance_nr>12345578</health_insurance_nr>
+  <polyclinic_nr>5</polyclinic_nr>
+  <date_created>2018-06-02</date_created>
+  <created_by>1</created_by>
+  <id_doctor>46</id_doctor>
+  <id_patient>114</id_patient>
+  <blood_type>B</blood_type>
+  <rh_factor>Rh-</rh_factor>
+  <allergies>None</allergies>
+  <anamnesis>This is the anamnesis of Ilir Doka.</anamnesis>
+  <doctor_name>Luan</doctor_name>
+  <doctor_surname>Xhelili</doctor_surname>
+  <receptionist_name>Ema</receptionist_name>
+  <receptionist_surname>Idrizi</receptionist_surname>
+  <in_waiting>0</in_waiting>
+  <patient>
+    <id>114</id>
+    <photo>default.jpg</photo>
+    <name>Ilir</name>
+    <father_name>Robert</father_name>
+    <surname>Alia</surname>
+    <personal_id>J12245678K</personal_id>
+    <gender>M</gender>
+    <phone>0692209120</phone>
+    <address>Rr.Irfan Tomini</address>
+    <profession>Mathematician</profession>
+    <job>Professor</job>
+    <guardian>none</guardian>
+    <birthdate>1956-05-01</birthdate>
+    <birthplace>Tirane</birthplace>
+    <email>ilir@gmail.com</email>
+    <username>ilir123</username>
+    <password>$2y$10$u.907dtRNjQp8l/11womvO76EQlBCx/tMWUnjyJXl/B/omVzMZJ.i</password>
+  </patient>
+  <visits/>
+</medical_record>
